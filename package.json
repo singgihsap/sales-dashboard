@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@pinia/nuxt": "latest",
-    "@vue/runtime-core": "^3.5.22",
     "apexcharts": "^3.54.0",
     "nuxt": "^3.15.4",
     "pinia": "^3.0.3",
